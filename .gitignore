@@ -1,0 +1,6 @@
+core/*.txt
+core/.*
+core/judged/judged*
+core/judge_client/judge_client*
+core/sim/sim_2_67/*.o
+web/.*
